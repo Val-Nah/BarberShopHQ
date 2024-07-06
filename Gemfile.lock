@@ -18,7 +18,7 @@ GEM
     i18n (1.14.5)
       concurrent-ruby (~> 1.0)
     mini_portile2 (2.8.7)
-    minitest (5.24.0)
+    minitest (5.24.1)
     multi_json (1.15.0)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
@@ -53,7 +53,7 @@ GEM
       tilt (~> 2.0)
     sqlite3 (1.6.9)
       mini_portile2 (~> 2.8.0)
-    tilt (2.3.0)
+    tilt (2.4.0)
     tux (0.3.0)
       ripl (>= 0.3.5)
       ripl-multi_line (>= 0.2.4)
@@ -64,7 +64,6 @@ GEM
     zeitwerk (2.6.16)
 
 PLATFORMS
-  ruby
   x86-mingw32
 
 DEPENDENCIES
